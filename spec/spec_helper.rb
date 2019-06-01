@@ -1,7 +1,5 @@
 require "bundler/setup"
-
-project_root = File.dirname(File.absolute_path(__FILE__))
-Dir.glob(project_root + '/../lib/*') { |file| require file }
+require "simplyb"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
