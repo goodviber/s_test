@@ -70,6 +70,10 @@ Assume the following customer request:
  * insurer_b : 7.5 (25% of 30 (one match on contents, the second biggest cover))
  * insurer_c : 6 (30% of 20 (one match on engine, the third biggest cover))
  
+ # Commands
  
-  
+ Set variables in rakefile
+ 
+ Command line : "rake run" to run application, "rspec spec" to run tests.
+ 
      
