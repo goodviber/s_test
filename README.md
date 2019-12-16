@@ -4,7 +4,7 @@ A car insurance aggregator wants to build a system that returns insurance quotes
 
 A customer can request a level of cover for various parts of a car, e.g. they  may want £10 cover for their tires and £50 cover for their windows.
 
-Based on the customer request, quots are provided by a panel of insurers. Each quote can have a different price, e.g. insurer_a may give a quote for £10 for the request above, and insurer_b may give a quote of £15. The rules for coming up with the price a specified below.
+Based on the customer request, quotes are provided by a panel of insurers. Each quote can have a different price, e.g. insurer_a may give a quote for £10 for the request above, and insurer_b may give a quote of £15. The rules for coming up with the price a specified below.
 
 # What to build
 
