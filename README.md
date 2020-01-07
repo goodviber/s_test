@@ -24,7 +24,7 @@ This is an example of a customer request in a JSON format:
  
  The JSON request specifies which values the customer is requesting for 5 possible covers.
  
- The application uses a static configuration file which contains the list of the covers each insrer is providing.
+ The application uses a static configuration file which contains the list of the covers each insurer is providing.
  
  This is an example of the insurer configuration JSON file.
  
