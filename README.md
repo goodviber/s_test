@@ -1,4 +1,4 @@
-# Simplybusiness tech test
+# tech test
 
 A car insurance aggregator wants to build a system that returns insurance quotes based on customer requests.
 
