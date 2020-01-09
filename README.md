@@ -40,7 +40,7 @@ The application should, for each request, calculate quotes for the 3 insurers. T
   
 The quote is 10% of the insurer rate if 2 covers are matched. If only 1 cover is matched, the quote is 20% of the insurer rate if it is the highest cover requested, 25% if it is the second highest, or 30% if it is the third.
 
-Only the biggest insoming 3 values from the customer request are taken into account for the calculation, discarding the other 2.
+Only the biggest incoming 3 values from the customer request are taken into account for the calculation, discarding the other 2.
 
 The system should not return quote if the value is zero.
 
